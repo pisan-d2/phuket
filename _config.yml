@@ -3,7 +3,7 @@ email:              info@phuket101-example.com
 description:        A Phuket Travel Guide Blog
 author:             author test
 baseurl:            "/phuket"
-url:                "https://pisan-d2.github.io/"
+url:                "https://pisan-d2.github.io"
 
 # Social Profiles
 twitter_username:   Phuket101_TW
