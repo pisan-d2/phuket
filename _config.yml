@@ -1,0 +1,25 @@
+title:              Phuket 101
+email:              info@phuket101-example.com
+description:        A Phuket Travel Guide Blog
+author:             author test
+baseurl:            "/startbootstrap-clean-blog-jekyll"
+url:                "https://startbootstrap.github.io"
+
+# Social Profiles
+twitter_username:   Phuket101_TW
+github_username:    Phuket101_GH
+facebook_username:  Phuket101_FB
+instagram_username:  Phuket101_IG
+linkedin_username: Phuket101_IN
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           3
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
