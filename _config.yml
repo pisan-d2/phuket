@@ -2,8 +2,8 @@ title:              Phuket 101
 email:              info@phuket101-example.com
 description:        A Phuket Travel Guide Blog
 author:             author test
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+baseurl:            ""
+url:                "https://pisan-d2.github.io/phuket/"
 
 # Social Profiles
 twitter_username:   Phuket101_TW
